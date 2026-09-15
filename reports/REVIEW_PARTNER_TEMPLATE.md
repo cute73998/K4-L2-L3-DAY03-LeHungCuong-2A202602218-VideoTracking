@@ -3,6 +3,10 @@
 Chép file này thành `reports/review_partner.md`. Reviewer chỉ ghi finding; tác giả
 tự sửa bài của mình và điền closure.
 
+> **Trạng thái:** chưa có dữ liệu peer-review thực tế trong `outputs/`. Toàn bộ trường
+> `[điền]`, danh sách finding, checklist và exit ticket bên dưới phải do reviewer/tác giả
+> tự điền dựa trên evidence review thật — không sinh tự động (xem `RULES.md` về liêm chính học thuật).
+
 | Trường | Giá trị |
 | --- | --- |
 | Author | `[điền]` |
